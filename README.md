@@ -1,5 +1,5 @@
 # Solo_Project_SM
-Additional materials for "dipsticks"
+Additional materials for Dipsticks project
 
 Contents:
 1. Derivation for Equations in Cylindrical Model
