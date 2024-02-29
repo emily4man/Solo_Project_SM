@@ -1,0 +1,1 @@
+If the tank is more than half full i.e. if h>r, then we can invert the circle shown in Fig.3 and the area below the blue chord then represents the empty part of the tank. Thus we only need to consider when h<r.
